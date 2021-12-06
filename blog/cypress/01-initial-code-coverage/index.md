@@ -93,7 +93,7 @@ Note that this is different from what the video does.
 Note the BEFORE All Coverage, AFTER EACH log, and AFTER ALL Coverage. This tells us that the coverage data is being saved.
 ![coverage-in-test-run](images/coverage-in-test-run.jpg)
 
-7. You will now see a `.nyc_output` and `coverage` directories in `<repo>/examples/fineFoods/client`.
+7. You will now see a `.nyc_output` and `coverage` directories in `<repo>/examples/fineFoods/client`. Do not check in these directories into github.
 ![coverage-directory.jpg](images/coverage-directory.jpg)
 
 8. Now, open `<repo>/examples/fineFoods/client/coverage/lcov-report/index.html` and here's the ouput:
